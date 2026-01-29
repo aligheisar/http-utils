@@ -45,7 +45,8 @@
     "check": "biome check",
     "check:fix": "biome check --write",
     "format": "biome format --write",
-    "lint-staged": "lint-staged"
+    "lint-staged": "lint-staged",
+    "prepare": "husky"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.3.13",

@@ -1,4 +1,4 @@
-# http-utils
+# @aligheisar/http-utils
 
 A small collection of HTTP-related utilities for modern JavaScript and
 TypeScript applications.

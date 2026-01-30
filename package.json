@@ -1,6 +1,6 @@
 {
   "name": "@aligheisar/http-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Small, focused HTTP utilities for fetch-based applications.",
   "author": {
     "email": "ali.gheisar.dev@gmail.com",
